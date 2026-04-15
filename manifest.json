@@ -1,0 +1,18 @@
+{
+  "name": "Cadastro de Pessoas",
+  "short_name": "Pessoas",
+  "description": "Cadastro de pessoas com Supabase",
+  "start_url": "supabase.html",
+  "display": "standalone",
+  "background_color": "#0f1117",
+  "theme_color": "#10b981",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
