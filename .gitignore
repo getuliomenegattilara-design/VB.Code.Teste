@@ -1,2 +1,6 @@
 # Ignorar arquivo de configuracao com senha
 config.asp
+
+# Claude Code session
+.claude/
+
