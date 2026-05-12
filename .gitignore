@@ -1,6 +1,21 @@
-# Ignorar arquivo de configuracao com senha
-config.asp
-
-# Claude Code session
+__pycache__/
+*.pyc
+*.pyo
 .claude/
-
+_chrome_profile_cemig/
+_cemig_snap/
+_cemig_cookies.json
+_cemig_network.log
+_cemig_downloads/
+_fully_*.html
+_tablet_*.png
+_baixarlo_now.png
+_carne_leao.pdf
+_growatt_*.py
+_ewelink_probe*.py
+_scb_issues.log
+_watch_scb_fase1.py
+locks/
+*.db
+*.db-wal
+*.db-shm
